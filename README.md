@@ -15,4 +15,3 @@ This project is a simple 3-tier rule engine application that determines user eli
 - Mongoose (for data storage)
 - JavaScript
 
-## Project Structure
