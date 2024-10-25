@@ -1,0 +1,13 @@
+{
+  "name": "rule-engine",
+  "version": "1.0.0",
+  "description": "A rule engine using Abstract Syntax Tree (AST)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.8.2"
+  }
+}
